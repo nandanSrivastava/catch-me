@@ -1,0 +1,16 @@
+*{
+  background-color: rgb(9, 9, 34);
+}
+
+.mainName{
+  position: absolute;
+  left: 40%;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color:bisque;
+  font-size: 5em;
+  opacity: 0.4;
+
+}
+h1{
+  z-index: 999;
+}
